@@ -26,7 +26,7 @@ const Content = ({items,handleCheck,handleDelete}) => {
           ))}
         </ul>
         ):(
-          <p style={{marginTop:'2rem'}}>Your list is empty</p>
+          <p style={{marginTop:'2rem'}}>Yours list is empty</p>
         )
       }
       </main>
